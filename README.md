@@ -4,4 +4,6 @@ This repository is an ongoing project to implement different compartmental model
 
 Next steps: This README.md will be updated shortly, and after satisfactory implementation of a few functions, the project will be expanded into an interactive Jupyter Notebook. 
 
+**Update:** As of September 7, 2021 this repository is not going to be updated anytime soon.
+
 More information can be found in this Wikipedia page: [Compartmental Models in Epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology).
